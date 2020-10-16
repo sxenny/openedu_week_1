@@ -1,7 +1,8 @@
 {
   "Headers": {
     "/*": {
-        "X-Author" : "verbeckii"
+        "X-Author" : "verbeckii",
+        "Access-Control-Allow-Origin" : "*"
        }
     }
 }
