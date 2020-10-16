@@ -1,5 +1,5 @@
 {
-  "Headers": {
+  "headers": {
     "/*": {
         "X-Author" : "verbeckii",
         "Access-Control-Allow-Origin" : "*"
